@@ -4,10 +4,4 @@ Shark Game is a web game made entirely in HTML, CSS and JavaScript by Cirrial. I
 
 ## Development Plan
 
-Cirrial originally developed this game for Seamergency 2014, but continued to develop it afterward. It quickly became a niche favorite among idle game enthusiasts. After a string of updates, Cirrial dropped development in mid-2015. The final version is v0.71.
-
-While the game is in a more-than-playable state, it remains unfinished. This mod, dubbed New Frontiers, intends to finish what Cirrial started, and then move on to reimagine the game and its world.
-
-This repository holds the second step of development, which is to reimagine each of the worlds as unique places with individually significant and different gameplay elements, along with UI improvements and overhauls to major game mechanics.
-
-Contributions welcome.
+This is Istaran's personal playground version of the shark game. Recommend you play the original or the one I forked from.
